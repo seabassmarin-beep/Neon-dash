@@ -2,6 +2,9 @@
 
 Neon Dash is an interactive browser game where you jump, double-jump, collect coins, grab power-ups, and survive as long as possible.
 
+## Link
+Open this link to play: https://seabassmarin-beep.github.io/Neon-dash/
+
 ## How to Play
 
 - Press **Space** or **Up Arrow** to jump.
