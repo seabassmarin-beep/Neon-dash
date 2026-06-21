@@ -17,6 +17,7 @@ Open this link to play: https://seabassmarin-beep.github.io/Neon-dash/
 - Grab pink plus power-ups to gain a life.
 - Press **Restart** to start over.
 - Your best score is saved in your browser.
+- Use landscape on smartphones for a better experience.
 
 ## License
 
